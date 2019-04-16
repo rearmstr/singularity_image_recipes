@@ -32,5 +32,4 @@ From: centos
    mpicc -o pi -fPIC pi.c
 
 %runscript
-   /mpitestapp/pit
-	/mpitestapp/pi
+   /mpitestapp/pi
